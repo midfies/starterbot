@@ -1,0 +1,2 @@
+# starterbot
+A starter bot
